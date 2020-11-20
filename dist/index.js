@@ -3,7 +3,7 @@
  * description: Timeout option for node-fetch with abort-controller.
  * homepage: https://github.com/afeiship/next-fetch-with-node-timeout
  * version: 1.0.0
- * date: 2020-11-20 21:46:55
+ * date: 2020-11-20 21:47:39
  * license: MIT
  */
 

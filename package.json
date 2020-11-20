@@ -39,5 +39,11 @@
   },
   "dependencies": {
     "abort-controller": "^3.0.0"
-  }
+  },
+  "keywords": [
+    "next",
+    "fetch",
+    "timeout",
+    "node-fetch"
+  ]
 }
